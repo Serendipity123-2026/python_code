@@ -1,8 +1,0 @@
-字段,类型,说明
-书名,str,"['城南旧事', '昆虫记', '边城', '万历十五年']"
-作者,str,"['林海音', '法布尔', '沈从文', '黄仁宇']"
-出版社,str,"['人民文学出版社', '商务印书馆', '人民文学出版社', '中华书局']"
-出版年,int,"['2018', '2016', '2020', '2017']"
-价格,float,"['￥28.50', '￥42.00', '￥19.90', '￥36.00']"
-分类,str,"['￥28.50', '￥42.00', '￥19.90', '￥36.00']"
-详情,str,"['http://localhost:63342/pythonProject/Chapter%204/resources/%E4%B9%A6%E5%9F%8E.html?_ijt=drfr9iacnl9fv2jfeqn4270kci&_ij_reload=RELOAD_ON_SAVE/book/1001', 'http://localhost:63342/pythonProject/Chapter%204/resources/%E4%B9%A6%E5%9F%8E.html?_ijt=drfr9iacnl9fv2jfeqn4270kci&_ij_reload=RELOAD_ON_SAVE/book/1002', 'http://localhost:63342/pythonProject/Chapter%204/resources/%E4%B9%A6%E5%9F%8E.html?_ijt=drfr9iacnl9fv2jfeqn4270kci&_ij_reload=RELOAD_ON_SAVE/book/1003', 'http://localhost:63342/pythonProject/Chapter%204/resources/%E4%B9%A6%E5%9F%8E.html?_ijt=drfr9iacnl9fv2jfeqn4270kci&_ij_reload=RELOAD_ON_SAVE/book/1004']"
